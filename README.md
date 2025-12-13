@@ -1,5 +1,5 @@
 # objectdetectionusingMobileNetSSD_model
-# 👁️ VisionAssist: AI Navigation & Object Detection for the Visually Impaired
+# 👁️ VisionAssist: AI Navigation & Object Detection for the Visually Impaired.
 
 > **Empowering independence through voice-controlled AI, real-time object recognition, and smart navigation.**
 
@@ -81,6 +81,7 @@ Simply execute the main python script:
 ```
 python main.py
 ```
+
 🔮 Future Roadmap
 [ ] OCR Integration: Add a mode to read text from books or street signs.
 
