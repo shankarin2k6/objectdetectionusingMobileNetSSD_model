@@ -83,6 +83,7 @@ python main.py
 ```
 
 🔮 Future Roadmap
+
 [ ] OCR Integration: Add a mode to read text from books or street signs.
 
 [ ] Emergency SOS: Voice command to send GPS location to a family member.
